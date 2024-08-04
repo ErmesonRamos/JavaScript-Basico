@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Ermeson",
+        "idade": 17,
+        "esta_trabalhando": false,
+        "hobbies": ["Futebol", "Xadrez", "Programar"],
+    
+        "detalhes_profissao": {
+            "cargo": "Desenvolver Full-Stack"
+        }
+    }
+]
